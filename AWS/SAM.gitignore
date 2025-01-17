@@ -1,0 +1,4 @@
+# Website: https://docs.aws.amazon.com/serverless-application-model
+
+# Ignore build folder
+.aws-sam/

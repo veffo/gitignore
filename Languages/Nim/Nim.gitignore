@@ -1,0 +1,4 @@
+# Ignore project files
+nimcache/
+nimblecache/
+htmldocs/

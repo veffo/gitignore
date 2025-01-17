@@ -1,0 +1,12 @@
+# Website: https://hexo.io/
+
+# Ignore generated directory
+public/
+
+# Ignore temp files
+tmp/
+.tmp*
+
+# Additional files
+db.json
+.deploy*/

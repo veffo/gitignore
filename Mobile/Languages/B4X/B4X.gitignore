@@ -1,0 +1,4 @@
+# Ignore project files
+**/Objects
+**/AutoBackups
+*.meta

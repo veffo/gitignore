@@ -1,0 +1,6 @@
+# Ignore project files
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp

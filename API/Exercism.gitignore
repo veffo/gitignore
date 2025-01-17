@@ -1,0 +1,4 @@
+# Website: https://exercism.io/
+
+# Ignore .exercism folder which contain sensitive data
+.exercism

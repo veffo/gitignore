@@ -1,0 +1,7 @@
+# Website: https://cordova.apache.org/
+
+# App platform binaries and built files
+/platforms
+
+# Optional to ignore plugin Git clones
+# /plugins

@@ -1,0 +1,12 @@
+# Generated files
+target/
+generated/
+
+# Dependencies
+Dependencies.toml
+
+# Config files
+Config.toml
+
+# The config files used for testing, Uncomment the following line if you want to commit the test config files
+# !**/tests/Config.toml

@@ -1,0 +1,6 @@
+# Website: https://scalameta.org/metals/
+
+# Ignore project files
+.metals/
+.bloop/
+project/metals.sbt

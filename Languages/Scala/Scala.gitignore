@@ -1,0 +1,6 @@
+# Ignore project files
+*.class
+*.log
+
+# Virtual machine crash logs, see website: http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*

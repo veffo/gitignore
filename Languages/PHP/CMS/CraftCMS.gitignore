@@ -1,0 +1,4 @@
+# Craft 2 storage website: https://craftcms.com/support/craft-storage-gitignore
+# Not necessary for Craft 3 website: https://github.com/craftcms/craft/issues/26
+/craft/storage/*
+!/craft/storage/rebrand

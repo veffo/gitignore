@@ -1,0 +1,7 @@
+# Ignore project files
+.hg/
+.hgignore
+.hgsigs
+.hgsub
+.hgsubstate
+.hgtags

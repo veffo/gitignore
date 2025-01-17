@@ -1,0 +1,7 @@
+# Ignore project files
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin

@@ -1,0 +1,18 @@
+# Website: https://logtalk.org/
+
+# Logtalk temporary file directories
+.lgt_tmp/
+lgt_tmp/
+
+# Logtalk default unit testing and doclet results and logs directories
+logtalk_tester_logs/
+logtalk_doclet_logs/
+
+# Backend prolog compiler temporary files
+.pl-history
+*.out
+*.xwam
+*.qo
+*.ql
+*.itf
+*.po

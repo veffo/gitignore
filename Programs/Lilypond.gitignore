@@ -1,0 +1,7 @@
+# Ignore project files
+*.pdf
+*.ps
+*.midi
+*.mid
+*.log
+*~

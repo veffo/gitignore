@@ -1,0 +1,51 @@
+# Source files
+/pimcore
+
+# Asset files
+/website/var/assets/*
+
+# Backups
+/website/var/backup/*
+
+# File cache
+/website/var/cache/*
+
+# Generated PHP classes, keep definition files (.psf)
+/website/var/classes/Object*
+!/website/var/classes/objectbricks
+
+# Various configuration files
+/website/var/config/system.xml
+/website/var/config/cache.xml
+/website/var/config/robots.txt
+/website/var/config/Geo*
+/website/var/config/object/*
+/website/var/config/portal/*
+/website/var/config/sqlreport/*
+
+# Sent e-mail log files
+/website/var/email/*
+
+# Log files
+/website/var/log/*.log
+
+# Serialized recyclebin files
+/website/var/recyclebin/*
+
+# Search plugin
+/website/var/search/*
+
+# Various temp files
+/website/var/system/*
+/website/var/tmp/*
+
+# Serialized version files
+/website/var/versions/asset/*
+/website/var/versions/document/*
+/website/var/versions/object/*
+
+# User profile images
+/website/var/user-image/*
+
+# Keep .dummy files
+!.dummy

@@ -1,0 +1,19 @@
+# Ignore project files
+*.pyc
+*.pyo
+*.tmp*
+*.mo
+*.egg
+*.EGG
+*.egg-info
+*.EGG-INFO
+.*.cfg
+bin/
+build/
+develop-eggs/
+downloads/
+eggs/
+fake-eggs/
+parts/
+dist/
+var/

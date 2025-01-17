@@ -1,0 +1,7 @@
+# Ignore project files
+*.ss~
+*.ss#*
+.#*.ss
+*.scm~
+*.scm#*
+.#*.scm

@@ -1,0 +1,26 @@
+# Ignore project files
+*.class
+
+# Package Files
+*.jar
+*.war
+
+# GWT caches and compiled units
+war/gwt_bree/
+gwt-unitCache/
+
+# Boilerplate generated classes
+.apt_generated/
+
+# More caches and things from deploy
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
+
+# Compilation logs
+.gwt/
+
+# GWT junit compilation files
+www-test/
+
+# Old GWT (1.5) created this dir
+.gwt-tmp/

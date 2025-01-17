@@ -1,0 +1,7 @@
+# Website: http://www.thinkphp.cn/
+
+# Logs and Cache files
+/Application/Runtime/
+
+# Common configure file
+/Application/Common/Conf/config.php

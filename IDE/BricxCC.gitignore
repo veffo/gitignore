@@ -1,0 +1,5 @@
+# Website: http://bricxcc.sourceforge.net
+
+# Ignore project files
+*.bak
+*.sym

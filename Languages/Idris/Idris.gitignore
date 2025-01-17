@@ -1,0 +1,7 @@
+# Idris 1
+*.ibc
+*.o
+
+# Idris 2
+*.ttc
+*.ttm

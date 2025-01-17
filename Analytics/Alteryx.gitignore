@@ -1,0 +1,28 @@
+# Website: https://www.alteryx.com/
+# Website: https://help.alteryx.com/current/designer/alteryx-file-types
+
+# Alteryx data files
+*.yxdb
+*.cydb
+*.cyidx
+*.rptx
+*.vvf
+*.aws
+
+# Alteryx special files
+*.yxwv
+*.yxft
+*.yxbe
+*.bak
+*.pcxml
+*.log
+*.bin
+*.yxlang
+CASS.ini
+
+# Alteryx license files
+*.yxlc
+*.slc
+*.cylc
+*.alc
+*.gzlc

@@ -1,0 +1,6 @@
+# Ignore project files
+*.dmb
+*.rsc
+*.int
+*.lk
+*.zip

@@ -1,0 +1,4 @@
+# Ignore project files
+build/
+recovery/
+BeefSpace_User.toml

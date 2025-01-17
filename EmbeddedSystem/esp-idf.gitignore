@@ -1,0 +1,6 @@
+# Info: https://github.com/espressif/esp-idf
+
+# Esp-idf
+build/
+sdkconfig
+sdkconfig.old

@@ -1,0 +1,4 @@
+# Ignore project files
+/node_modules/
+/lib/
+.bsb.lock
