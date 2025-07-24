@@ -124,10 +124,10 @@ To install for local use, download this repo and copy everything from this repos
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/veffo/gitignore
+git clone https://github.com/veffo/gitignore
 
 # Go into the repository
-$ cd gitignore
+cd gitignore
 ```
 
 Create a `.gitignore` file in your root directory your project.
