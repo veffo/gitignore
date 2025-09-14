@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img width="150" src="_assets/images/logo.png" alt="logo" />
+        <img width="150" src="https://raw.githubusercontent.com/veffo/gitignore/main/_assets/images/logo.png" alt="logo" />
     </a>
 </p>
 
